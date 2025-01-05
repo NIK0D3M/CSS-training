@@ -2,9 +2,8 @@
 
 .container {
   display: flex;
-  gap: 10px;
-  justify-content: center;
-  align-items: center;
+  gap: 5px;
+  
 }
 
 /* common */
@@ -12,4 +11,17 @@
 .common {
   font-size: 28px;
   font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.First {
+  background-color: black;
+  color: white;
+  width: 140px;
+  height: 50px;
+}
+
+.Second{
+  background-color: yellow;
+  width: 190px;
+  height: 50px;
 }
