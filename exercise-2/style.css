@@ -1,0 +1,27 @@
+
+/* odd numbered point */
+.Odd-numbered {
+  background-color: rgb(255, 157, 157);
+  font-family: "Verdana", "DejaVu Sans", "sans-serif"
+}
+
+
+.Odd-numbered.Font-change {
+  font-size: 24px;
+}
+
+
+/* Number 2 point */
+#Number-2 {
+  font-size: 36px;
+  color: rgb(0, 0, 255);
+}
+
+
+/* Number 4 point */
+#Number-4 {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: rgb(116, 255, 116);
+}
+
